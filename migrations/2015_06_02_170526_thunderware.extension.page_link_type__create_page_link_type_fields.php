@@ -13,7 +13,12 @@ class ThunderwareExtensionPageLinkTypeCreatePageLinkTypeFields extends Migration
      */
     protected $fields = [
         'title'       => 'anomaly.field_type.text',
-        'url'         => 'anomaly.field_type.text',
+        'page'        => [
+            'type'   => 'anomaly.field_type.relationship',
+            'config' => [
+                'related' => 'Anomaly\PagesModule\Page\PageModel'
+            ]
+        ],
         'description' => 'anomaly.field_type.textarea'
     ];
 

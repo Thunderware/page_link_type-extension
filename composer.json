@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "Control4\\PageLinkTypeExtension\\": "src/"
+      "Thunderware\\PageLinkTypeExtension\\": "src/"
     }
   }
 }
