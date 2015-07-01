@@ -6,9 +6,9 @@ use Anomaly\Streams\Platform\Model\PageLinkType\PageLinkTypePagesEntryModel;
 /**
  * Class PageLinkTypeModel
  *
- * @link          http://anomaly.is/streams-platform
- * @author        AnomalyLabs, Inc. <hello@anomaly.is>
- * @author        Ryan Thompson <ryan@anomaly.is>
+ * @link          http://www.thunderware.net
+ * @author        Thunderware <brennon.loveless@gmail.com>
+ * @author        Brennon Loveless <brennon.loveless@gmail.com>
  * @package       Anomaly\UrlLinkTypeExtension
  */
 class PageLinkTypeModel extends PageLinkTypePagesEntryModel implements LinkEntryInterface

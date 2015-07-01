@@ -3,12 +3,12 @@
 use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
 
 /**
- * Class UrlLinkTypeFormBuilder
+ * Class PageLinkTypeFormBuilder
  *
- * @link          http://anomaly.is/streams-platform
- * @author        AnomalyLabs, Inc. <hello@anomaly.is>
- * @author        Ryan Thompson <ryan@anomaly.is>
- * @package       Anomaly\UrlLinkTypeExtension\Form
+ * @link          http://www.thunderware.net
+ * @author        Thunderware <brennon.loveless@gmail.com>
+ * @author        Brennon Loveless <brennon.loveless@gmail.com>
+ * @package       Anomaly\PageLinkTypeExtension
  */
 class PageLinkTypeFormBuilder extends FormBuilder
 {
