@@ -1,4 +1,4 @@
-<?php namespace Thunderware\PageLinkTypeExtension\Form;
+<?php namespace Anomaly\PageLinkTypeExtension\Form;
 
 use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
 

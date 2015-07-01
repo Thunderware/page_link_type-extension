@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Anomaly\Streams\Platform\Database\Migration\Migration;
 
-class ThunderwareExtensionPageLinkTypeCreatePageLinkTypeFields extends Migration
+class AnomalyExtensionPageLinkTypeCreatePageLinkTypeFields extends Migration
 {
 
     /**

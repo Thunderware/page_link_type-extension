@@ -1,10 +1,10 @@
-<?php namespace Thunderware\PageLinkTypeExtension;
+<?php namespace Anomaly\PageLinkTypeExtension;
 
 use Anomaly\NavigationModule\Link\Contract\LinkEntryInterface;
 use Anomaly\Streams\Platform\Model\PageLinkType\PageLinkTypePagesEntryModel;
 
 /**
- * Class UrlLinkTypeModel
+ * Class PageLinkTypeModel
  *
  * @link          http://anomaly.is/streams-platform
  * @author        AnomalyLabs, Inc. <hello@anomaly.is>
@@ -13,7 +13,6 @@ use Anomaly\Streams\Platform\Model\PageLinkType\PageLinkTypePagesEntryModel;
  */
 class PageLinkTypeModel extends PageLinkTypePagesEntryModel implements LinkEntryInterface
 {
-
     /**
      * Get the URL.
      *

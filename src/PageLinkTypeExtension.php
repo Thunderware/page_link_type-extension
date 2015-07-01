@@ -1,4 +1,4 @@
-<?php namespace Thunderware\PageLinkTypeExtension;
+<?php namespace Anomaly\PageLinkTypeExtension;
 
 use Anomaly\NavigationModule\Link\LinkType;
 
